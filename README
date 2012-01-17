@@ -1,0 +1,7 @@
+Chromeit is a small extension that adds functionality to Chrome's Omnibox. This allows you to just type in  '/r' and then a subreddit name on Reddit.com.
+
+Basically, this was a quick script I threw together for a couple of reasons. 
+1. I NEED MY REDDIT FIX!!! And I can be wasting two seconds typing in the full URL every time. :)
+2. I've been getting into Chrome (as well as other browser) extension development lately, and Omnibox was one piece of it I hadn't played with yet.
+
+Yes, right now this isn't much, but I'm wanting to continue playing with the extension and just see where else I can take it from here.
